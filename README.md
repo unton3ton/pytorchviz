@@ -53,3 +53,9 @@ make_dot(y.mean(), params=dict(model.named_parameters()), show_attrs=True, show_
 
 The script was moved from [functional-zoo](https://github.com/szagoruyko/functional-zoo) where it was created with the help of Adam Paszke, Soumith Chintala, Anton Osokin, and uses bits from [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch).
 Other contributors are [@willprice](https://github.com/willprice), [@soulitzer](https://github.com/soulitzer), [@albanD](https://github.com/albanD).
+
+## Another examples
+
+![](https://raw.githubusercontent.com/unton3ton/pytorchviz/refs/heads/master/interesting_net.png)
+
+![](https://raw.githubusercontent.com/unton3ton/pytorchviz/refs/heads/master/mini_unet_graph.png)
